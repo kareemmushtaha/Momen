@@ -1,0 +1,1 @@
+{{ \App\Model\Item::find($Bank_item_id)->Item_name }}

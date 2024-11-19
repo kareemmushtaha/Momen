@@ -1,0 +1,1 @@
+{{ App\Area::find($area_id)->name }}

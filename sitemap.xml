@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://waqftech.com/</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/project</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/freelancer</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/login</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/register</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/22</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/20</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/19</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/14</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/13</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/project?page=2</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/freelancer?page=2</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/password/reset</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/9</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/8</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/single_project/7</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/project?page=1</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://waqftech.com/freelancer?page=1</loc>
+  <lastmod>2020-03-12T21:23:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>

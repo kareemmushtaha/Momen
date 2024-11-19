@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ecovlrdu/public_html/projects/
+    - /bin/cp -R Villa_valley $DEPLOYPATH
+    - export DEPLOYPATH=/home/chalets/
+    - /bin/cp -R public_html $DEPLOYPATH

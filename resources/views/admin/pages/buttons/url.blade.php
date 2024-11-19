@@ -1,0 +1,1 @@
+<a href="{{ url('page/'.$id) }}" target="_blank">{{ url('page/'.$id) }}</a>
